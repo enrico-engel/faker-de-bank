@@ -1,0 +1,20 @@
+{
+    "name": "faker-provider/faker-de-banks",
+    "description": "\"Faker Provider for generating fakes of german bank accounts\"",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enrico Engel"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Faker\\Provider\\": "src/"
+        }
+    }
+}

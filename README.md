@@ -34,9 +34,9 @@ This wrapper is under the MIT license. See the complete license in the wrapper:
 
 ## About
 
-DE bank fake provider is a project of [Enrico Engel](https://github.com/Engel-Enrico).
-See also the list of [contributors](https://github.com/Engel-Enrico/faker-provider-de-bank-accounts/graphs/contributors).
+DE bank fake provider is a project of [Enrico Engel](https://github.com/enrico-engel).
+See also the list of [contributors](https://github.com/enrico-engel/faker-de-bank/graphs/contributors).
 
 ## Reporting an issue or a feature request
 
-Issues and feature requests are tracked in the [GitHub issue tracker](https://github.com/Engel-Enrico/faker-de-bank/issues).
+Issues and feature requests are tracked in the [GitHub issue tracker](https://github.com/enrico-engel/faker-de-bank/issues).

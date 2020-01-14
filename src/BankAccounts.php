@@ -86,7 +86,7 @@ class BankAccounts extends Base {
      */
     public function bank() {
 
-        return static::randomElement(static::$banks);
+        return static::randomElement(static::$banks)[0];
     }
 
     /**
@@ -96,7 +96,7 @@ class BankAccounts extends Base {
      */
     public function bankWebsite($bank) {
 
-        foreach(static::$bank as $bankItem) {
+        foreach(static::$banks as $bankItem) {
             if ($bankItem[0] == $bank) {
                 return $bankItem[1];
             }

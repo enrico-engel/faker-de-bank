@@ -7,7 +7,7 @@
             "name": "Enrico Engel"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "fzaninotto/faker": "^1.9"

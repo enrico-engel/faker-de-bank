@@ -19,7 +19,11 @@ $faker->addProvider(new Faker\Provider\BankAccounts($faker));
 ```
 
 ```
-$faker->bank // DSL Bank 
+$bank = $faker->bank // DSL Bank 
+```
+
+```
+$faker->bankWebsite($bank) // www.dslbank.de
 ```
 
 ```
